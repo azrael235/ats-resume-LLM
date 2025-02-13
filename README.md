@@ -2,8 +2,6 @@
 ## Overview
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
-## Demo of the project
-https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/assets/70437673/56d043c4-bc02-4c16-bd85-fe2d3d909d8c
 
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
@@ -16,11 +14,7 @@ https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Goog
 - Python 3.10
 - Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/
-```
+
 
 2. Install dependencies:
 ```bash
